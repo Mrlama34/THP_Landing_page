@@ -10,9 +10,17 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
  */
-
+@import "font-awesome";
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "landing-page";
+@import "_footer";
+@import "_global";
+@import "_call-to-action";
+@import "_icons";
+@import "_masthead";
+@import "_mixins";
+@import "_showcase";
+@import "_testimonials";
+@import "pages";

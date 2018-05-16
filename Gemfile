@@ -5,6 +5,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 #gem 'devise'
 #gem 'pundit'
 
+gem "font-awesome-rails"
+gem "twitter-bootstrap-rails"
+gem 'jquery-easing-rails'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'sass-rails', '>= 3.2'
 gem 'bootsnap', require: false
