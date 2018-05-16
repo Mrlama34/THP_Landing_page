@@ -1,15 +1,10 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.3.4'
 # authentification
 #gem 'devise'
 #gem 'pundit'
-gem 'jquery-easing-rails'
-gem "font-awesome-rails"
-gem 'therubyracer'
-gem 'less-rails-bootstrap'
-gem 'simple-line-icons-rails'
+
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'sass-rails', '>= 3.2'
 gem 'bootsnap', require: false
