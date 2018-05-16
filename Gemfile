@@ -5,10 +5,11 @@ ruby '2.3.4'
 # authentification
 #gem 'devise'
 #gem 'pundit'
+gem 'bootstrap-sass', '~> 3.3.7'
+gem 'sass-rails', '>= 3.2'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'rails'
 gem 'puma'
-gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
