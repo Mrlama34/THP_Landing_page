@@ -5,6 +5,11 @@ ruby '2.3.4'
 # authentification
 #gem 'devise'
 #gem 'pundit'
+gem 'jquery-easing-rails'
+gem "font-awesome-rails"
+gem 'therubyracer'
+gem 'less-rails-bootstrap'
+gem 'simple-line-icons-rails'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'sass-rails', '>= 3.2'
 gem 'bootsnap', '>= 1.1.0', require: false
