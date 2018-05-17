@@ -12,6 +12,8 @@
 //
 //= require twitter/bootstrap
 //= require jquery
+//= require jquery.min
+//= require jquery.slim.min
 //= require jquery_ujs
 //= require jquery.easing
 //= require bootstrap-sprockets
