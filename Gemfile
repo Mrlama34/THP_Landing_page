@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 # authentification
 #gem 'devise'
 #gem 'pundit'
-
+gem 'instabot'
 gem "font-awesome-rails"
 gem "twitter-bootstrap-rails"
 gem 'jquery-easing-rails'
